@@ -1,0 +1,27 @@
+p
+{
+	color:red;
+}
+
+.nkarner
+{
+	width: 500px;
+	height: 300px;
+	position:absolute;
+	left: 15%;
+}
+
+.kochak
+{
+	position: absolute;
+	top: 20%;
+	height: 50px;
+	width: 100px;
+	font-family: Times New Roman;
+	font-size: 20px;
+}
+
+#Next
+{
+	left:80%;
+}
